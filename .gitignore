@@ -1,6 +1,7 @@
 *.txt
 !challenge.txt
 !SampleMusicPlaylist.txt
+!report.txt
 
 
 
